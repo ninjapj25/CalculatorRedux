@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/RecipeReactApp/static/js/main.ca7da904.chunk.js",
-    "main.js.map": "/RecipeReactApp/static/js/main.ca7da904.chunk.js.map",
-    "runtime-main.js": "/RecipeReactApp/static/js/runtime-main.11622d2a.js",
-    "runtime-main.js.map": "/RecipeReactApp/static/js/runtime-main.11622d2a.js.map",
-    "static/js/2.cbb14223.chunk.js": "/RecipeReactApp/static/js/2.cbb14223.chunk.js",
-    "static/js/2.cbb14223.chunk.js.map": "/RecipeReactApp/static/js/2.cbb14223.chunk.js.map",
-    "index.html": "/RecipeReactApp/index.html",
-    "precache-manifest.6e1b91a078d64bd61c946eb9bee3e0d9.js": "/RecipeReactApp/precache-manifest.6e1b91a078d64bd61c946eb9bee3e0d9.js",
-    "service-worker.js": "/RecipeReactApp/service-worker.js",
-    "static/js/2.cbb14223.chunk.js.LICENSE.txt": "/RecipeReactApp/static/js/2.cbb14223.chunk.js.LICENSE.txt"
+    "main.js": "/CalculatorRedux/static/js/main.ca7da904.chunk.js",
+    "main.js.map": "/CalculatorRedux/static/js/main.ca7da904.chunk.js.map",
+    "runtime-main.js": "/CalculatorRedux/static/js/runtime-main.5a56573d.js",
+    "runtime-main.js.map": "/CalculatorRedux/static/js/runtime-main.5a56573d.js.map",
+    "static/js/2.cbb14223.chunk.js": "/CalculatorRedux/static/js/2.cbb14223.chunk.js",
+    "static/js/2.cbb14223.chunk.js.map": "/CalculatorRedux/static/js/2.cbb14223.chunk.js.map",
+    "index.html": "/CalculatorRedux/index.html",
+    "precache-manifest.0e1bedf8871044d3f53f2a5f90730b05.js": "/CalculatorRedux/precache-manifest.0e1bedf8871044d3f53f2a5f90730b05.js",
+    "service-worker.js": "/CalculatorRedux/service-worker.js",
+    "static/js/2.cbb14223.chunk.js.LICENSE.txt": "/CalculatorRedux/static/js/2.cbb14223.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.11622d2a.js",
+    "static/js/runtime-main.5a56573d.js",
     "static/js/2.cbb14223.chunk.js",
     "static/js/main.ca7da904.chunk.js"
   ]
